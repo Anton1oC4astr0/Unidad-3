@@ -24,6 +24,7 @@ public class Practica3Fibonacci {
             c = a + b;
             a = b;
             b = c;
+            scanner.close();
         }
     }
     
